@@ -3,7 +3,7 @@
 #include<stdio.h>
 
 void main()
-{	int A[3][3], B[3][3],i=0,j=0;
+{	int A[3][3],i=0,j=0;
 		
 	printf("Enter Matrix A : ");
 	
