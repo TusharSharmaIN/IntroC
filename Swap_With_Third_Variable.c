@@ -8,5 +8,5 @@ void main()
     c=a;
     a=b;
     b=c;
-    printf("Swapped Variable a=%d and b=%d", a,b);
+    printf("Swapped Variable a=%d and b=%d ", a,b);
 }
